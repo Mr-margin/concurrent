@@ -8,7 +8,6 @@ import java.util.concurrent.Executor;
  * 在使用线程池的时候，底层如何调用线程汇总的逻辑
  */
 public class Test_01_Myexcutor implements Executor {
-
     public static void main(String[] args){
         new Test_01_Myexcutor().execute(new Runnable() {
             @Override
