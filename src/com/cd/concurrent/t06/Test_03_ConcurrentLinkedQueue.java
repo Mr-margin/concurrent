@@ -2,7 +2,6 @@ package com.cd.concurrent.t06;
 
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
-
 /**
  * 并发容器 - ConcurrentLinkedQueue
  * Queue 消息队列
