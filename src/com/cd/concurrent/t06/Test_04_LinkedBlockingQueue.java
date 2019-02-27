@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
  * 并发容器 - LinkedBlockingQueue
  * LinkedBlockingQueue -  阻塞队列
  * put & take  - 自动阻塞
- * put自动阻塞，队列容量满后自动阻塞
+ * put自动阻塞方法，队列容量满后自动阻塞
  * take自动阻塞方法，队列容量为0后，自动阻塞。
  */
 public class Test_04_LinkedBlockingQueue {

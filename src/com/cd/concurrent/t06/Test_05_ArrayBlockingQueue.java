@@ -39,5 +39,4 @@ public class Test_05_ArrayBlockingQueue {
 
         }
     }
-
 }
